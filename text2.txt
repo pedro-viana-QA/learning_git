@@ -1,0 +1,1 @@
+Novo arquivo text pra testar o git stash
